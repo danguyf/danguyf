@@ -4,9 +4,8 @@ REVISION 2026.1.18 - THE ADVENTURE OF THE DEVSECOPS ARCHITECT
 -----------------------------------------------------------------------
 
 START-UP OFFICE
-This is a cramped room filled with CRT monitors and the smell of Jolt Cola.
-You are surrounded by legends. Your 80s BBS heroes from ACiD PRODUCTIONS are
-here, hunched over keyboards.
+This is a cramped room filled with CRT monitors and the smell of Jolt Cola. You are surrounded
+by legends. Your 80s BBS heroes from ACiD PRODUCTIONS are here, hunched over keyboards.
 
 A massive BUBBLE hangs over the room. It looks fragile.
 
@@ -50,9 +49,9 @@ Your new patrons hired WEBDEV but need: C#, JAVA. You build DESKTOP APPS.
 You are now NETWORK SECURITY SME. You see many packets. Most are malicious.
 
 > GO BACK TO WEBDEV
-The government hires you as a mercenary again. After two years of watching
-money burn, you begin to COMPLAIN loudly. A HEAVILY ARMORED BUREAUCRAT hears you. 
-"FINE," she says. "DO IT BETTER."
+The government hires you as a mercenary again. After two years of watching money burn,
+you begin to COMPLAIN loudly.
+A HEAVILY ARMORED BUREAUCRAT hears you.  "FINE," she says. "DO IT BETTER."
 
 > BUILD DEVSECOPS PLATFORM
 You summon the CLOUDS (AWS, AZURE, NUTANIX) and invoke PIPELINES.
