@@ -20,8 +20,11 @@ vanishes in a cloud of venture capital. The SongPrint IP is
 scattered; it seems to have been picked up by a wizard named SHAZAM.
 
 > GO GRADUATE
-You receive a DUAL MAJOR (CS/ANTHROPOLOGY). 
-A WEEK LATER: You are joined by a SPOUSE. Your inventory is heavy.
+You receive MAJOR: Computer Science
+You receive MAJOR: Cultural Anthropology
+You receive LETTER OF MARQUE from "the Harvard of the South",
+good for acquiring audiences with nobles and merchants.
+A WEEK LATER: You are joined by a SPOUSE.
 
 > LOOK FOR SOFTDEV JOB
 You find no SOFTDEV JOBS here. The market is a DESOLATE WASTELAND.
@@ -71,7 +74,7 @@ You automate the defenses. The Bureaucrat is stunned.
 > USE RUBY
 > GO ALL IN ON CI/CD
 You are moving very fast now. You take several CERTIFICATION EXAMS 
-without reading the manuals. You pass them all. Miraculous.
+without reading the manuals. You pass them all.
 
 > AUTOMATE JOB
 You automate your job. 
