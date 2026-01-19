@@ -1,28 +1,88 @@
-`> As a current senior you have a job at a start-up, working with some of your 80s BBS heroes from ACiD Productions, but the company falls to the dotcom bust. Its open sourced SongPrint IP becomes the basis of Shazam.`
+```
+REVISION 2026.1.18 - THE ADVENTURE OF THE DEVSECOPS ARCHITECT
+(C) 1994-2026 VETERAN DEVELOPER PRODUCTIONS
+-----------------------------------------------------------------------
 
-`> You graduate with a dual major in Computer Science and Cultural Anthropology. You get married a week later.`
+START-UP OFFICE
+This is a cramped room filled with CRT monitors and the smell of 
+Mountain Dew. You are surrounded by legends. Your 80s BBS heroes
+from ACiD PRODUCTIONS are here, hunched over keyboards.
 
-`> You planned to be a software developer but jobs are scarce so you accept a job doing webdev for a new media arm of a graphic design/marketing company. `
+A massive BUBBLE hangs over the room. It looks fragile.
 
-`> You get a government job doing webdev.`
+> OPEN SOURCE SONGPRINT
+SongPrint seems like the most revolutionary part of the codebase
+so sure, why not.
 
-`> You switch to being a contractor doing webdev.`
+> WAIT
+Time passes. The BUBBLE bursts with a deafening POP! The company 
+vanishes in a cloud of venture capital. The SongPrint IP is 
+scattered; it seems to have been picked up by a wizard named SHAZAM.
 
-`> You switch contracts to another webdev role but this time they also have you act as a Unix sysadmin. You get your CISSP. You create a web app in a weekend that replaces a $3mil/year contract.`
+> GO GRADUATE
+You receive a DUAL MAJOR (CS/ANTHROPOLOGY). 
+A WEEK LATER: You are joined by a SPOUSE. Your inventory is heavy.
 
-`> Eventually you switch to a webdev contract but they have you develop desktop software in C#, then Java.`
+> LOOK FOR SOFTDEV JOB
+You find no SOFTDEV JOBS here. The market is a DESOLATE WASTELAND.
 
-`> You get a Network Security job.`
+> GO TO MARKETING FIRM
+You become a WEB DEVELOPER in the NEW MEDIA DEPARTMENT. It isn't
+the software engineering you imagined, but along the way you
+acquire skill: FAUX GRAPHIC DESIGNER.
 
-`> You get a webdev job. After two years of waste the government gets sick of hearing you complain that you could do it better and faster and lets you prove it by building a DevSecOps automation platform that runs on AWS, Azure, or Nutanix.`
+> GO NORTH (TO THE GOVERNMENT)
+You enter a LARGE GREY BUILDING. Your class remains WEB DEVELOPER. 
+Progress is slow. The air is thick with bureaucracy.
 
-`> You do cloud architecture. You do Python and big data. You do Ruby. You go all in on CI/CD. You pass a lot of certification exams without talking the courses or reviewing the materials.`
+> BECOME CONTRACTOR
+You leave the building and return as a mercenary. You feel 
+slightly wealthier.
 
-`> You automate your job away over and over and over again.`
+> CHANGE CONTRACTS
+You are now a WEBDEV/UNIX SYSADMIN. 
+You study a heavy tome: THE CISSP ENCYCLOPEDIA. Your INT rises.
+There is a $3M CONTRACT here.
 
-`> After thirty years you have a lot of badges on your GitHub profile.`
+> BUILD WEB APP
+In a single weekend, you craft an ELEGANT HACK. 
+The $3M CONTRACT is destroyed. 
 
----
+> CHANGE CONTRACTS
+Your new patrons ask for WEBDEV, but hand you tools: C#, JAVA. 
+You build DESKTOP SOFTWARE instead.
+
+> GO TO SECURITY OPERATIONS CENTER
+You are now a NETWORK SECURITY OFFICER. You see many packets. 
+Most of them are malicious.
+
+> GO BACK TO WEBDEV
+The government hires you as a mercenary again. After two
+years of watching  money burn, you begin to COMPLAIN loudly.
+A HEAVILY ARMORED BUREAUCRAT hears you. 
+
+"FINE," she says. "DO IT BETTER."
+
+> BUILD DEVSECOPS PLATFORM
+You summon the CLOUDS (AWS, AZURE, NUTANIX) and invoke PIPELINES.
+You automate the defenses. The Bureaucrat is stunned. 
+
+> USE PYTHON
+> USE RUBY
+> GO ALL IN ON CI/CD
+You are moving very fast now. You take several CERTIFICATION EXAMS 
+without reading the manuals. You pass them all. Miraculous.
+
+> AUTOMATE JOB
+You automate your job. 
+You automate it again. 
+You automate it a third time. 
+Whenever you finish automating a job you find a new one.
+30 YEARS PASS
+
+> EXAMINE GITHUB
+A vast archive appears before you. It is covered in SHINING BADGES.
+```
 
 |Q: How do programming shepherds count their flock?|A: With lambda functions. 🥁|
 |:---:|:----:|
