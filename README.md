@@ -1,3 +1,29 @@
+`> As a current senior you have a job at a start-up, working with some of your 80s BBS heroes from ACiD Productions, but the company falls to the dotcom bust. Its open sourced SongPrint IP becomes the basis of Shazam.`
+
+`> You graduate with a dual major in Computer Science and Cultural Anthropology. You get married a week later.`
+
+`> You planned to be a software developer but jobs are scarce so you accept a job doing webdev for a new media arm of a graphic design/marketing company. `
+
+`> You get a government job doing webdev.`
+
+`> You switch to being a contractor doing webdev.`
+
+`> You switch contracts to another webdev role but this time they also have you act as a Unix sysadmin. You get your CISSP. You create a web app in a weekend that replaces a $3mil/year contract.`
+
+`> Eventually you switch to a webdev contract but they have you develop desktop software in C#, then Java.`
+
+`> You get a Network Security job.`
+
+`> You get a webdev job. After two years of waste the government gets sick of hearing you complain that you could do it better and faster and lets you prove it by building a DevSecOps automation platform that runs on AWS, Azure, or Nutanix.`
+
+`> You do cloud architecture. You do Python and big data. You do Ruby. You go all in on CI/CD. You pass a lot of certification exams without talking the courses or reviewing the materials.`
+
+`> You automate your job away over and over and over again.`
+
+`> After thirty years you have a lot of badges on your GitHub profile.`
+
+---
+
 |Q: How do programming shepherds count their flock?|A: With lambda functions. 🥁|
 |:---:|:----:|
 |||
