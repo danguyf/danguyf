@@ -85,6 +85,8 @@ A vast archive appears before you. It is covered in SHINING BADGES.
 | **Databases** | **Testing** |
 | <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/><br /><br /> | <img src="https://skillicons.dev/icons?i=cypress" alt="cypress" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-original.svg" alt="jasmine" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-original.svg" alt="karma" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/><br /><br /> |
 
+<img src="/console-blinking.gif" alter="console with blinking cursor" width="60" />
+
 <!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=danguyf&show_icons=true&locale=en" alt="danguyf" /></p>
 
