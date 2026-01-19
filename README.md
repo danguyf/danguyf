@@ -89,6 +89,4 @@ A vast archive appears before you. It is covered in SHINING BADGES.
 
 <!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=danguyf&show_icons=true&locale=en" alt="danguyf" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danguyf&" alt="danguyf" /></p>
 //-->
