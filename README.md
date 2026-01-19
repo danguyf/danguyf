@@ -4,66 +4,54 @@ REVISION 2026.1.18 - THE ADVENTURE OF THE DEVSECOPS ARCHITECT
 -----------------------------------------------------------------------
 
 START-UP OFFICE
-This is a cramped room filled with CRT monitors and the smell of 
-Mountain Dew. You are surrounded by legends. Your 80s BBS heroes
-from ACiD PRODUCTIONS are here, hunched over keyboards.
+This is a cramped room filled with CRT monitors and the smell of Jolt Cola.
+You are surrounded by legends. Your 80s BBS heroes from ACiD PRODUCTIONS are
+here, hunched over keyboards.
 
 A massive BUBBLE hangs over the room. It looks fragile.
 
 > OPEN SOURCE SONGPRINT
-SongPrint seems like the most revolutionary part of the codebase
-so sure, why not.
+SongPrint seems like the most revolutionary part of the codebase so sure, why not.
 
 > WAIT
-Time passes. The BUBBLE bursts with a deafening POP! The company 
-vanishes in a cloud of venture capital. The SongPrint IP is 
-scattered; it seems to have been picked up by a wizard named SHAZAM.
+Time passes. The BUBBLE bursts with a POP! The company vanishes in a cloud of venture
+capital. The SongPrint IP seems to have been picked up by a wizard named SHAZAM.
 
 > GO GRADUATE
 You receive MAJOR: Computer Science
 You receive MAJOR: Cultural Anthropology
-You receive LETTER OF MARQUE from "the Harvard of the South",
-good for acquiring audiences with nobles and merchants.
-A WEEK LATER: You are joined by a SPOUSE.
+You receive LETTER OF MARQUE from "the Harvard of the South", granting audiences
+with nobles and merchants.
 
 > LOOK FOR SOFTDEV JOB
-You find no SOFTDEV JOBS here. The market is a DESOLATE WASTELAND.
+You find no SOFTDEV JOBS here. The post-BUBBLE market is a DESOLATE WASTELAND.
 
 > GO TO MARKETING FIRM
-You become a WEB DEVELOPER in the NEW MEDIA DEPARTMENT. It isn't
-the software engineering you imagined, but along the way you
-acquire skill: FAUX GRAPHIC DESIGNER.
+You become a WEB DEVELOPER in the NEW MEDIA DEPARTMENT. It isn't the SOFTDEV you
+imagined, but along the way you acquire skill: FAUX GRAPHIC DESIGNER.
 
 > GO NORTH (TO THE GOVERNMENT)
-You enter a LARGE GREY BUILDING. Your class remains WEB DEVELOPER. 
-Progress is slow. The air is thick with bureaucracy.
+You enter a LARGE GREY BUILDING. You remain WEB DEVELOPER. Progress is slow.
 
 > BECOME CONTRACTOR
-You leave the building and return as a mercenary. You feel 
-slightly wealthier.
+You leave the building and return as a mercenary. You feel slightly wealthier.
 
 > CHANGE CONTRACTS
-You are now a WEBDEV/UNIX SYSADMIN. 
-You study a heavy tome: THE CISSP ENCYCLOPEDIA. Your INT rises.
+You are now a WEBDEV/UNIX SYSADMIN. You acquire: CISSP. Your INT rises.
 There is a $3M CONTRACT here.
 
 > BUILD WEB APP
-In a single weekend, you craft an ELEGANT HACK. 
-The $3M CONTRACT is destroyed. 
+In a single weekend, you craft an ELEGANT HACK. The $3M CONTRACT is destroyed. 
 
 > CHANGE CONTRACTS
-Your new patrons ask for WEBDEV, but hand you tools: C#, JAVA. 
-You build DESKTOP SOFTWARE instead.
+Your new patrons hired WEBDEV but need: C#, JAVA. You build DESKTOP APPS.
 
 > GO TO SECURITY OPERATIONS CENTER
-You are now a NETWORK SECURITY OFFICER. You see many packets. 
-Most of them are malicious.
+You are now NETWORK SECURITY SME. You see many packets. Most are malicious.
 
 > GO BACK TO WEBDEV
-The government hires you as a mercenary again. After two
-years of watching  money burn, you begin to COMPLAIN loudly.
-A HEAVILY ARMORED BUREAUCRAT hears you. 
-
+The government hires you as a mercenary again. After two years of watching
+money burn, you begin to COMPLAIN loudly. A HEAVILY ARMORED BUREAUCRAT hears you. 
 "FINE," she says. "DO IT BETTER."
 
 > BUILD DEVSECOPS PLATFORM
@@ -73,8 +61,7 @@ You automate the defenses. The Bureaucrat is stunned.
 > USE PYTHON
 > USE RUBY
 > GO ALL IN ON CI/CD
-You are moving very fast now. You take several CERTIFICATION EXAMS 
-without reading the manuals. You pass them all.
+You are moving very fast now. You pass CERTIFICATION EXAMS without reading the tomes.
 
 > AUTOMATE JOB
 You automate your job. 
