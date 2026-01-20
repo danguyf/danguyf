@@ -73,7 +73,7 @@ Whenever you finish automating a job you find a new one.
 A vast archive appears before you. It is covered in SHINING BADGES.
 ```
 
-|Q: How do programming shepherds count their flock?|A: With lambda functions. 🥁|
+|`Score: 3,000/5,400 Class: DEVELOPER [Rank: MIDCAREER]`|`Inventory: DUAL MAJOR, DECADES EXPERIENCE`|
 |:---:|:----:|
 |||
 | **Programming Languages** | **Frontend Development** |
